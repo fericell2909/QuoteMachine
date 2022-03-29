@@ -20,7 +20,7 @@ const QuoteBox = () => {
         setAttributte({phrase: Util.getNewQuote(quotes.quotes)});
         setStyle({style: {backgroundColor : Util.colorHEX()}});
 
-    },[null]);
+    },[]);
 
 
     const handleChange = () => {
