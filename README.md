@@ -9,5 +9,5 @@
 
 ### Images
 
-    Initial
-    <img src="/imagesrepo/initial.png" alt="Initial"/>
+    <img src="/imagesrepo/initial.png" alt="Initial" />
+
